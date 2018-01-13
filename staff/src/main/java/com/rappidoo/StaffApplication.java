@@ -1,4 +1,4 @@
-package com.rappidoo.staff;
+package com.rappidoo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
